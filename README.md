@@ -21,3 +21,5 @@ This book provides an introduction to statistical learning methods. It is aimed 
 20190105 Third review
 
 20190407 Forth review
+
+20191226 Fifth review
